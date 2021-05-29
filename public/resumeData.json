@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"My Portfolio",
+    "description":"I am a web development engineer and I use ReactJs to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "bhaskarwankhade06@gmail.com",
+    "phone": "9265589508",
+    "github":"https://github.com/bhaskarwankhade06",
+    "project":"https://github.com/bhaskarwankhade06",
+    "address":{
+      "city":"PUNE",
+      "state":"MAHARASHTRA",
+      "zip": "(444101)"
+    },
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/vieee05/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/vishal-wankhade/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/versatile_viishal/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/bhaskarwankhade06",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"x",
+        "degree":"y",
+        "graduated":"z",
+        "description":"XYZ"
+      }
+    
+    ],
+    "work":[
+      {
+        "company":"XYZ",
+        "title":"XYZ ",
+        "years":"XYZ",
+        "description":"XYZ"
+      },
+      {
+        "company":"XYZ",
+        "title":"XYZ ",
+        "years":"XYZ",
+        "description":"XYZ"
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"80%"
+      },
+      {
+        "name":"NextJs",
+        "level":"75%"
+      },
+      {
+        "name":"Bootstrap 3&4",
+        "level":"90%"
+      },
+      {
+        "name":"NodeJs",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"65%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      },
+      {
+        "title":"",
+        "category":"XYZ",
+        "image":"01.gif",
+        "url":"XYZ"
+      }
+    ]
+  }
+}
